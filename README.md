@@ -6,3 +6,5 @@
   - boolean
   
         let isDone: boolean = false;
+        
+  - number
