@@ -4,3 +4,5 @@
 
 ## ชนิดข้อมูลพื้นฐานใน TypeScript
   - boolean
+  
+        let isDone: boolean = false;
