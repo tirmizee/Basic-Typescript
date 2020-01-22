@@ -32,3 +32,10 @@
         console.log(tuple[1]); //555
 
   - Enum 
+
+        enum Color {Red, Green, Blue}
+        let c: Color = Color.Green;
+
+        if(c == Color.Green){
+            console.log('c is Green');
+        }
