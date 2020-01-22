@@ -28,5 +28,5 @@
  ช่วยให้เราสามารถแสดงอาร์เรย์ที่มีองค์ประกอบจำนวนคงที่ซึ่งทราบชนิด
 
         let tuple : [string, number] = ['hello', 555];
-        console.log(tuple[0]);
-        console.log(tuple[1]);  
+        console.log(tuple[0]); //hello
+        console.log(tuple[1]); //555
