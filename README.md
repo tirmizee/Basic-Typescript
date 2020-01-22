@@ -35,4 +35,4 @@
 
         enum Color {Red, Green, Blue}
         let c: Color = Color.Green;
-        console.log((c == Color.Green ? 'c is Green' : 'c is not Green'));
+        console.log((c == Color.Green ? 'c is Green' : 'c is not Green')); //c is Green
