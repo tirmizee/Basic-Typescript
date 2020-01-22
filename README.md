@@ -38,3 +38,8 @@
         console.log((c == Color.Green ? 'c is Green' : 'c is not Green')); //c is Green
   
   - Object 
+  
+  
+  ## Ref
+  
+  - https://www.typescriptlang.org/play/index.html?target=1&e=170#example/hello-world
