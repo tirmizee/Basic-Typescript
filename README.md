@@ -40,6 +40,6 @@
   - Object 
   
   
-  ## Ref
+  ## Reference
   
   - https://www.typescriptlang.org/play/index.html?target=1&e=170#example/hello-world
