@@ -13,7 +13,9 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
 
 ## ชนิดข้อมูลพื้นฐานใน TypeScript
 
-การประกาศตัวแปร ชื่อตัวแปร : ชนิดข้อมูล , variablename : datatype
+การประกาศตัวแปร ชื่อตัวแปร : ชนิดข้อมูล 
+    
+    Variable name : Data type
 
   - boolean
   
