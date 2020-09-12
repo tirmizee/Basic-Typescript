@@ -6,7 +6,7 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
 
     npm install -g typescript
     
-    // compile
+#### compile Typescript
     
     tsc xxx.ts
     
