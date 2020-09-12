@@ -71,6 +71,6 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
    
   ## Reference
   
-  - https://stackblitz.com/edit/typescript-nlqa7z
+  - https://stackblitz.com/edit/basic-class?file=index.ts
    
   - https://www.typescriptlang.org/play/index.html?target=1&e=170#example/hello-world
