@@ -12,6 +12,9 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
     
 
 ## ชนิดข้อมูลพื้นฐานใน TypeScript
+
+การประกาศตัวแปร ชื่อตัวแปร : ชนิดข้อมูล , variablename : datatype
+
   - boolean
   
         let isDone: boolean = false;
