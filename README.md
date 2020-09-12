@@ -1,6 +1,6 @@
-# Basic-Typescript
+# Typescript
 
-พื้นฐาน Typescript
+Typescript คือ wrapper ของ javascript
 
 ## ชนิดข้อมูลพื้นฐานใน TypeScript
   - boolean
