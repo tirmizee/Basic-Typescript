@@ -54,6 +54,7 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
   
   - Object 
   
+ ## Interfaces ใน TypeScript
   
   ## Reference
   
