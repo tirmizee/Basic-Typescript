@@ -1,6 +1,7 @@
 # Typescript
 
-Typescript คือ wrapper ของ javascript มีองค์ประกอบทั้งหมดของ JavaScript พร้อมกับ classes, modules, interfaces, และ types คุณสมบัติหลักคือ static type พัฒนาโดย Microsoft
+Typescript คือ wrapper ของ javascript มีองค์ประกอบทั้งหมดของ JavaScript พร้อมกับ classes, modules, interfaces, และ types 
+คุณสมบัติหลักของ Typescript คือ static type พัฒนาโดย Microsoft
 
 #### ติดตั้ง Typescript
 
