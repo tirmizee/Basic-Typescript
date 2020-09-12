@@ -33,7 +33,7 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
   
         let color: string = "blue";
         
-  - array []
+  - Array []
   
         let list: number[] = [1, 2, 3];
         let list: Array<number> = [1, 2, 3]; //generic array type
@@ -52,7 +52,18 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
         let c: Color = Color.Green;
         console.log((c == Color.Green ? 'c is Green' : 'c is not Green')); //c is Green
   
-  - Object 
+  - Unknown 
+  
+  - Any 
+  
+  - Void
+  
+  - Null and Undefined
+  
+  - Never
+  
+  - Object
+
   
  ## Interfaces ใน TypeScript
   
