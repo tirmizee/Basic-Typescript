@@ -1,6 +1,6 @@
 # Typescript
 
-Typescript คือ wrapper ของ javascript
+Typescript คือ wrapper ของ javascript มีองค์ประกอบทั้งหมดของ JavaScript พร้อมกับ classes, modules, interfaces, และ types
 
 ## ชนิดข้อมูลพื้นฐานใน TypeScript
   - boolean
