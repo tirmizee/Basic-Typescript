@@ -56,5 +56,5 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
   
   
   ## Reference
-  
+   
   - https://www.typescriptlang.org/play/index.html?target=1&e=170#example/hello-world
