@@ -64,8 +64,13 @@ Typescript คือ wrapper ของ javascript มีองค์ประก
   
   - Object
 
+ ## Classes ใน TypeScript
   
  ## Interfaces ใน TypeScript
+ 
+ ## Generics ใน TypeScript
+ 
+
  
  หลักการสำคัญอย่างหนึ่งของ TypeScript คือการตรวจสอบ type ซึ่ง Interfaces เป็นสัญญาหรือข้อบังคับที่ entity ใดๆควรปฏิบัติตาม โดย Interfaces จะกำหนดคุณลักษณะ(properties), วิธีการ(methods)
    
